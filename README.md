@@ -1,6 +1,6 @@
 ﻿# OS Scheduling Algorithm Visualizer
 
-Then open your web browser and go to `http://localhost:8501`.
+Then open your web browser and go to `https://os-visual.streamlit.app/`.
 
 ## 📊 How It Works
 
