@@ -13,10 +13,6 @@ Then open your web browser and go to `http://localhost:8501`.
 
 Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/SPEEDBOT38/os/issues).
 
-## 📝 License
-
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
-
 ## 👨‍💻 Author
 
 **SPEEDBOT38**
